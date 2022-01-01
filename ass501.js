@@ -11,8 +11,4 @@ else if (number === 0) {
 else {
     var fact = 1;
     for ( var i = 1; i <= number; i++) {
-        fact =fact * i;
-        console.log('The factorial of ' + number + ' is ' + fact);    
     }
-    
-}
